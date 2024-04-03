@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My first Blog",
+      "body": "Why do we use it?\nIt us a long established fact that a reader will be distracted Importance of The Environment The environment is very important to all living organisms including human beings. The importance of the environment can best be discussed under the importance of Lithosphere, hydrosphere, atmosphere and biosphere for these, lithosphere will be the focus. The structure e of the earth is grouped into two Zones. These are the outer structure and the internal | structure. This is shown in the figure bellow.",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "Opening party!",
+      "body": "Why do we use it?\nIt us a long established fact that a reader will be distracted The environment is defined as the surroundings or conditions where a person, animal, or plant lives or strives. In n other words, the environment includes all the factors, external and internal, living and non-living factors which affect an organism (both plants and animals). The structure e of the earth is grouped into two Zones. These are the outer structure and the internal | structure. This is shown in the figure bellow.",
+      "author": "yoshi",
+      "id": "2"
+    },
+    {
+      "id": "af9b",
+      "title": "Data science",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque  quibusdam, nisi placeat distinctio laudantium ea dolor facere ullam atque quasi, suscipit animi beatae earum excepturi id ipsam minus iusto magnam. Doloribus corporis voluptate sunt ex expedita facilis, culpa libero eligendi consectetur corrupti quis fugit hic iusto porro quas  reiciendis illo.",
+      "author": "yoshi"
+    },
+    {
+      "id": "7d82",
+      "title": "coming home",
+      "body": "here i come",
+      "author": "Daniel M"
+    }
+  ]
+}

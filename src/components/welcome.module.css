@@ -1,0 +1,45 @@
+.body{
+    background-color: #6b6969;
+    height: 100vh;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    border-radius: 4px;
+    margin-bottom: 30px;
+
+}
+
+
+.welcome, .info, .start {
+color: white;
+
+}
+
+.welcome{
+    font-size: 40px;
+    padding: 10px 0;
+    font-family:cursive
+}
+
+.info{
+    font-size: 20px;
+}
+
+.start{
+    font-size: 30px;
+    padding: 10px 20px;
+    background-color: rgb(237, 21, 21);
+    border: none;
+    border-radius: 7px;
+    margin: 15px 0;
+    font-family:cursive;
+    cursor: pointer;
+    
+}
+.start:hover{
+    background-color: rgba(231, 24, 24, 0.778);
+    color: #f1ebeb;
+}
